@@ -7,4 +7,5 @@ Meu nome é Wellyson
 -Utilizo esse espaço para minha organização e
 compartilhamento dos meus projetos desenvolvidos
 
-![image](https://github.com/user-attachments/assets/bdfc4be0-4ff0-4e62-b066-0775114fbd01)
+![image](https://github.com/user-attachments/assets/e06d12c2-375a-4305-9483-9e8eafa78fdc)
+
